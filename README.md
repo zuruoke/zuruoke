@@ -1,4 +1,4 @@
-### Hi there, I'm Zuruoke
+### Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
 
 
 ## I'm a Software Developer and Content Creator!!
@@ -7,14 +7,29 @@
 - 🌱 I’m currently learning everything, although specifically I'm navigating my way into cloud technologies, so I'm learning the Go Language, pretty impresive, right? 😁
 - 🌱 I'm also learning about Google's new microservice API serving king gRPC, .proto file
 - 👯 I’m looking to collaborate with other content creators and Software Developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play fpl
 
 
-### Languages and Tools:
+### 🛠 I code using
 
-<img  alt="Visual Studio Code" width="4%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img width="10%" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png" /> <img alt="JavaScript" width="4%" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /><img width="6%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" /><img width="5%" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" /> 
+<!-- ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) -->
 
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
+![Python](https://img.shields.io/badge/-python-05122A?&logo=python)
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
+![Golang](https://img.shields.io/badge/-golang-05122A?&logo=go)
+![Dart](https://img.shields.io/badge/-dart-05122A?&logo=dart)
+![Flutter](https://img.shields.io/badge/-flutter-05122A?&logo=flutter)
+![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?&logo=Terraform)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+
+<!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker) -->
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript) -->
+
+<!-- <hr> -->
 
 
 
