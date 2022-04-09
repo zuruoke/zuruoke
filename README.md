@@ -26,6 +26,8 @@
 ![Terraform](https://img.shields.io/badge/-Terraform-05122A?&logo=Terraform)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)
+
 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker) -->
 <!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript) -->
