@@ -8,7 +8,8 @@
 - 🌱 I'm also learning about Google's new microservice API serving king gRPC, .proto file
 - 👯 I’m looking to collaborate with other content creators and Software Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play fpl
+- ⚡ Fun fact: I love to play fpl, so I developed a FPL analtyics app, [see here](https://play.google.com/store/apps/details?id=com.sportzlite.fpl)
+- 🫥 Wanna book a call with me... https://calendly.com/zuruokeokafor/30-minutes-meeting-with-zuruoke
 
 
 ### 🛠 I code using
