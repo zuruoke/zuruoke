@@ -6,6 +6,7 @@
 - 🔭 I just launched a course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course)!
 - 🌱 I’m currently learning everything, although specifically I'm navigating my way into cloud technologies, so I'm learning the Go Language, pretty impresive, right? 😁
 - 🌱 I'm also learning about Google's new microservice API serving king gRPC, .proto file
+- 🌱 I'm also learning about computer networking as regards to backend engineering
 - 👯 I’m looking to collaborate with other content creators and Software Developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play fpl, so I developed a FPL analtyics app, [see here](https://play.google.com/store/apps/details?id=com.sportzlite.fpl)
