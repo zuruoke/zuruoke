@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  Hi, I'm Chimzuruoke Okafor
 
 
-## I'm a Software Developer and Content Creator!!
+## I'm a Software Engineer and Content Creator!!
 
 - 🔭 I just launched a course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course)!
 - 🌱 I’m currently learning everything, although specifically I'm navigating my way into cloud technologies, so I'm learning the Go Language, pretty impresive, right? 😁
