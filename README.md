@@ -3,14 +3,14 @@
 
 ## I'm a Software Engineer, AI Scientist and Content Creator!!
 
-- 🎗️ Currently enrolled in a M.Sc program in Artificial Intelligence in University of Surrey in the UK 🇬🇧, with research focus on Foundation Models
+- 🎗️ Currently enrolled in an M.Sc program in Artificial Intelligence in the University of Surrey in the UK 🇬🇧, with a research focus on Large Language Models
 - 🔭 I launched DSA course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course)!
-- 🌱 I’m currently learning everything, although specifically I'm navigating my way into cloud technologies, so I'm learning the Go Language, pretty impresive, right? 😁
+- 🌱 I’m currently learning everything, although specifically, I'm navigating my way into cloud technologies, so I'm learning the Go Language, pretty impressive, right? 😁
 - 🌱 I'm also learning about Google's new microservice API serving king gRPC, .proto file
-- 🌱 I'm also learning about computer networking as regards to backend engineering
+- 🌱 I'm also learning about computer networking as regards backend engineering
 - 👯 I’m looking to collaborate with other content creators and Software Developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play fpl, so I developed a FPL analtyics app, [see here](https://play.google.com/store/apps/details?id=com.sportzlite.fpl)
+- ⚡ Fun fact: I love to play FPL, so I developed a FPL analytics app, [see here](https://play.google.com/store/apps/details?id=com.sportzlite.fpl)
 - 🫥 Wanna book a call with me... https://calendly.com/zuruokeokafor/30-minutes-meeting-with-zuruoke
 
 
