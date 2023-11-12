@@ -1,17 +1,18 @@
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  Hi, I'm Chimzuruoke Okafor
 
 
-## I'm a Software Engineer, AI Scientist and Content Creator!!
+## Hi, I'm Chimzuruoke Okafor - a Software Engineer, AI Scientist, and Content Creator!
 
-- 🎗️ Currently enrolled in an M.Sc program in Artificial Intelligence in the University of Surrey in the UK 🇬🇧, with a research focus on Large Language Models
-- 🔭 I launched DSA course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course)!
-- 🌱 I’m currently learning everything, although specifically, I'm navigating my way into cloud technologies, so I'm learning the Go Language, pretty impressive, right? 😁
-- 🌱 I'm also learning about Google's new microservice API serving king gRPC, .proto file
-- 🌱 I'm also learning about computer networking as regards backend engineering
-- 👯 I’m looking to collaborate with other content creators and Software Developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play FPL, so I developed a FPL analytics app, [see here](https://play.google.com/store/apps/details?id=com.sportzlite.fpl)
-- 🫥 Wanna book a call with me... https://calendly.com/zuruokeokafor/30-minutes-meeting-with-zuruoke
+- 🎗️ I am currently enrolled in an M.Sc. program in Artificial Intelligence at the University of Surrey, UK 🇬🇧. My research focuses on Self-Supervised Learning (SSL) and Large Language Models.
+- 🔭 Launched a comprehensive Data Structures and Algorithms course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course).
+- 🌱 Constantly expanding my expertise in cloud technologies and backend engineering, particularly in the realm of computer networking.
+- 🤖 Passionate about staying abreast of the latest AI and tech trends, I am actively involved in cutting-edge research. I'm in the process of publishing a paper on SSL applications in the medical field for leading conferences like ICCV and CVPR.
+- 🌌 Deeply intrigued by the Metaverse, AI, and Human-AI Teaming, exploring how these technologies interplay and shape our digital future.
+- 👯 Looking to collaborate with other content creators and software developers to exchange knowledge and innovate.
+- 🥅 2023 Goals: Contribute more to Open Source projects and delve deeper into AI research.
+- ⚡ Fun fact: I'm an avid football fan and FPL player. I developed a FPL analytics app, blending my sports passion with tech. [Check it out here](https://play.google.com/store/apps/details?id=com.sportzlite.fpl).
+- 🫥 Interested in discussing AI, SSL, MetaVerse or tech trends? Book a chat with me: [30-minutes meeting with Zuruoke](https://calendly.com/zuruokeokafor/30-minutes-meeting-with-zuruoke).
+
 
 
 ### 🛠 I code using
