@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  Hi, I'm Chimzuruoke Okafor
 
 
-## Hi, I'm Chimzuruoke Okafor - a Software Engineer, AI Scientist, and Content Creator!
+## A Software Engineer, AI Scientist, and Content Creator!
 
 - 🎗️ I am currently enrolled in an M.Sc. program in Artificial Intelligence at the University of Surrey, UK 🇬🇧. My research focuses on Self-Supervised Learning (SSL) and Large Language Models.
 - 🔭 Launched a comprehensive Data Structures and Algorithms course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course).
