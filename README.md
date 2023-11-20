@@ -7,7 +7,7 @@
 - 🔭 Launched a comprehensive Data Structures and Algorithms course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course).
 - 🌱 Constantly expanding my expertise in cloud technologies and backend engineering, particularly in the realm of computer networking.
 - 🤖 Passionate about staying abreast of the latest AI and tech trends, I am actively involved in cutting-edge research. I'm in the process of publishing a paper on SSL applications in the medical field for leading conferences like ICCV and CVPR.
-- 🌌 Deeply intrigued by the Metaverse, AI, and Human-AI Teaming, exploring how these technologies interplay and shape our digital future.
+- 🌌 Deeply intrigued by the Metaverse, AI, Explainable AI and Human-AI Teaming, exploring how these technologies interplay and shape our digital future.
 - 👯 Looking to collaborate with other content creators and software developers to exchange knowledge and innovate.
 - 🥅 2023 Goals: Contribute more to Open Source projects and delve deeper into AI research.
 - ⚡ Fun fact: I'm an avid football fan and FPL player. I developed a FPL analytics app, blending my sports passion with tech. [Check it out here](https://play.google.com/store/apps/details?id=com.sportzlite.fpl).
