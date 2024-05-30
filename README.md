@@ -3,7 +3,7 @@
 
 ## A Software Engineer, AI Scientist, and Content Creator!
 
-- 🎗️ I just finished my M.Sc. program in Artificial Intelligence at the University of Surrey, UK 🇬🇧. My research focuses on Self-Supervised Learning (SSL) and Large Language Models.
+- 🎗️ I just bagged my M.Sc. program in Artificial Intelligence at the University of Surrey, UK 🇬🇧. My research focuses on Self-Supervised Learning (SSL) and Large Language Models.
 - 🔭 Launched a comprehensive Data Structures and Algorithms course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course).
 - 🌱 Constantly expanding my expertise in cloud technologies and backend engineering, particularly in the realm of computer networking.
 - 🤖 Passionate about staying abreast of the latest AI and tech trends, I am actively involved in cutting-edge research. I'm in the process of publishing a paper on SSL applications in the medical field for leading conferences like ICCV and CVPR.
