@@ -1,36 +1,41 @@
 ### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  Hi, I'm Chimzuruoke Okafor
 
+## A Software Engineer, AI Builder, and SaaS Creator 🚀
 
-## A Software Engineer, AI Scientist, and Content Creator!
+* 🎗️ Bagged my MSc in Artificial Intelligence at the University of Surrey, UK 🇬🇧 — where I focused on **LLMs, Self-Supervised Learning, and Agentic AI Systems**.
+* 💡 I now build full AI-powered SaaS platforms end-to-end — from backend pipelines to production deployment — including **TravelGPT**, **PAM AI**, and **ORacle**, which collectively serve thousands of users monthly.
+* 🧠 My current obsession is building **autonomous, context-aware agents** using **LangGraph**, **OpenAI**, and **MCP servers** — systems that can reason, remember, and act.
+* 🧩 I work heavily across **LLMs, Retrieval-Augmented Generation (RAG)**, **workflow automation**, and **multi-agent orchestration**, combining engineering precision with applied research.
+* 🌍 My goal is to make AI systems feel truly usable — ones that talk, think, and deliver measurable outcomes in real-world settings.
+* 🕹 Outside work, I built **FPL Oracle AI**, a Fantasy Premier League assistant that helps over 2K+ users make smarter lineup decisions. [See on X](https://x.com/fploraclebot) | [Try on Telegram](https://t.me/fpl_oracle_bot).
+* 👯 I’m open to collaborating with other engineers, founders, and researchers who share a builder mindset.
+* 🥅 2025 Goals: Scale my current AI SaaS projects, contribute to open source agent frameworks, and launch new AI copilots for productivity and sports analytics.
+* ☕ Fun fact: I love turning technical curiosity into real products people actually use — one build at a time.
 
-- 🎗️ I just bagged my M.Sc. program in Artificial Intelligence at the University of Surrey, UK 🇬🇧. My research focuses on Self-Supervised Learning (SSL) and Large Language Models.
-- 🔭 Launched a comprehensive Data Structures and Algorithms course at Tunga Academy: [Data Structures and Algorithms!](https://academy.tunga.io/resources/data-structures-and-algorithms-course).
-- 🌱 Constantly expanding my expertise in cloud technologies and backend engineering, particularly in the realm of computer networking.
-- 🤖 Passionate about staying abreast of the latest AI and tech trends, I am actively involved in cutting-edge research. I'm in the process of publishing a paper on SSL applications in the medical field for leading conferences like ICCV and CVPR.
-- 🌌 Deeply intrigued by the Metaverse, AI, Explainable AI and Human-AI Teaming, exploring how these technologies interplay and shape our digital future.
-- 👯 Looking to collaborate with other content creators and software developers to exchange knowledge and innovate.
-- 🔖 Open to working on freelance projects.
-- 🥅 2024 Goals: Contribute more to Open Source projects and delve deeper into AI research.
-- ⚡ Fun fact: I'm an avid football fan and FPL player. I developed a FPL analytics app, blending my sports passion with tech. [Check it out here](https://play.google.com/store/apps/details?id=com.sportzlite.fpl).
-- 🫥 Interested in discussing AI, SSL, MetaVerse or tech trends? Book a chat with me: [30-minutes meeting with Zuruoke](https://calendly.com/zuruokeokafor/30-minutes-meeting-with-zuruoke).
+---
 
+### 🛠️ I code (and build agents) with
 
-
-### 🛠 I code using
-
-<!-- ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go) -->
-
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)
-![Python](https://img.shields.io/badge/-python-05122A?&logo=python)
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?&logo=TypeScript)
-![Golang](https://img.shields.io/badge/-golang-05122A?&logo=go)
-![Dart](https://img.shields.io/badge/-dart-05122A?&logo=dart)
-![Flutter](https://img.shields.io/badge/-flutter-05122A?&logo=flutter)
-![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)
-![Terraform](https://img.shields.io/badge/-Terraform-05122A?&logo=Terraform)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?\&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-05122A?\&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?\&logo=TypeScript)
+![Golang](https://img.shields.io/badge/-Go-05122A?\&logo=go)
+![Docker](https://img.shields.io/badge/-Docker-05122A?\&logo=Docker)
+![Terraform](https://img.shields.io/badge/-Terraform-05122A?\&logo=Terraform)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?\&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?\&logo=MongoDB)
+![Redis](https://img.shields.io/badge/-Redis-05122A?\&logo=redis)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?\&logo=langchain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?\&logo=langgraph)
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?\&logo=openai)
+![Gemini](https://img.shields.io/badge/-Gemini-05122A?\&logo=google)
+![Pinecone](https://img.shields.io/badge/-Pinecone-05122A?\&logo=pinecone)
+![n8n](https://img.shields.io/badge/-n8n-05122A?\&logo=n8n)
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?\&logo=fastapi)
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?\&logo=nextdotjs)
+![NestJS](https://img.shields.io/badge/-NestJS-05122A?\&logo=nestjs)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?\&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?\&logo=pytorch)
 
 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker) -->
