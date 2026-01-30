@@ -7,7 +7,7 @@
 * 🧠 My current obsession is building **autonomous, context-aware agents** using **LangGraph**, **OpenAI**, and **MCP servers** — systems that can reason, remember, and act.
 * 🧩 I work heavily across **LLMs, Retrieval-Augmented Generation (RAG)**, **workflow automation**, and **multi-agent orchestration**, combining engineering precision with applied research.
 * 🌍 My goal is to make AI systems feel truly usable — ones that talk, think, and deliver measurable outcomes in real-world settings.
-* 🕹 Outside work, I built **FPL Oracle AI**, a Fantasy Premier League assistant that helps over 2K+ users make smarter lineup decisions. [See on X](https://x.com/fploraclebot) | [Try on Telegram](https://t.me/fpl_oracle_bot).
+* 🕹 Outside work, I built **FPL Oracle AI**, a Fantasy Premier League assistant that helps over 2K+ users make smarter lineup decisions.  [Try it](https://www.fploracle.team).
 * 👯 I’m open to collaborating with other engineers, founders, and researchers who share a builder mindset.
 * 🥅 2025 Goals: Scale my current AI SaaS projects, contribute to open source agent frameworks, and launch new AI copilots for productivity and sports analytics.
 * ☕ Fun fact: I love turning technical curiosity into real products people actually use — one build at a time.
