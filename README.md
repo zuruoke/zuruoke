@@ -2,7 +2,8 @@
 
 ## A Software Engineer, AI Builder, and SaaS Creator 🚀
 
-* 🎗️ Bagged my MSc in Artificial Intelligence at the University of Surrey, UK 🇬🇧 — where I focused on **LLMs, Self-Supervised Learning, and Agentic AI Systems**.
+* 🎗️ Bagged a MSc in Artificial Intelligence at the University of Surrey (2024), UK 🇬🇧 — where I focused on **LLMs, Self-Supervised Learning, and Agentic AI Systems**.
+* 💡 Active Contributor to major ML open source libraries like Tensorflow, Pytorch and Ivy. Actively participating in LeetCode 
 * 💡 I now build full AI-powered SaaS platforms end-to-end — from backend pipelines to production deployment — including **TravelGPT**, **PAM AI**, and **ORacle**, which collectively serve thousands of users monthly.
 * 🧠 My current obsession is building **autonomous, context-aware agents** using **LangGraph**, **OpenAI**, and **MCP servers** — systems that can reason, remember, and act.
 * 🧩 I work heavily across **LLMs, Retrieval-Augmented Generation (RAG)**, **workflow automation**, and **multi-agent orchestration**, combining engineering precision with applied research.
