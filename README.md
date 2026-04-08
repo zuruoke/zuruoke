@@ -12,7 +12,7 @@ Built my own stuff too · Mostly Football-brained:
 - [The FPL Oracle](https://www.fploracle.team) — AI that helps you win your FPL league · £300 MRR · Top 300 globally (14M+) 🏆
 - [Backpage FC](https://www.tiktok.com/@backpage.fc) — automated football storytelling · 600K+ views · 2.1K followers
 
-4.5K ⭐ open source. 80K+ downloads. Contributor to TensorFlow, PyTorch, Ivy, JAX.
+4.5K ⭐ open source. 80K+ downloads. Contributor to TensorFlow, LeetCode, PyTorch, Ivy, JAX.
 
 Open to interesting problems.
 
