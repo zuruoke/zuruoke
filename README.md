@@ -1,5 +1,3 @@
-### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  Hi, 
-
 # Chimzuruoke Okafor
 
 AI Engineer. I build things and ship them.
