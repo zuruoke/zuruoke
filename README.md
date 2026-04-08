@@ -2,7 +2,7 @@
 
 AI Engineer · I build things and ship them ·
 
-<img alt="Chimzuruoke Okafor" src="https://github.com/user-attachments/assets/6ab7339a-1f2c-4d7b-970b-1b77c2ea6e3d" width="60%" />
+<img alt="Chimzuruoke Okafor" src="https://github.com/user-attachments/assets/6ab7339a-1f2c-4d7b-970b-1b77c2ea6e3d" width="80%" />
 
 Former Founding AI Engineer @ Lightwork AI (London) ·
 Multi-Agent systems · Voice AI · Full-Stack SaaS · Production
