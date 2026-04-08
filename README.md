@@ -1,19 +1,20 @@
-### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  Hi, I'm Chimzuruoke Okafor
+### <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />  Hi, 
 
-## A Software Engineer, AI Builder, and SaaS Creator 🚀
+# Chimzuruoke Okafor
 
-* 🎗️ Bagged a MSc in Artificial Intelligence at the University of Surrey (2024), UK 🇬🇧 — where I focused on **LLMs, Self-Supervised Learning, and Agentic AI Systems**.
-* 💡 Active Contributor to major ML open source libraries like Tensorflow, Pytorch and Ivy. Actively participating in LeetCode 
-* 💡 I now build full AI-powered SaaS platforms end-to-end — from backend pipelines to production deployment — including **TravelGPT**, **PAM AI**, and **ORacle**, which collectively serve thousands of users monthly.
-* 🧠 My current obsession is building **autonomous, context-aware agents** using **LangGraph**, **OpenAI**, and **MCP servers** — systems that can reason, remember, and act.
-* 🧩 I work heavily across **LLMs, Retrieval-Augmented Generation (RAG)**, **workflow automation**, and **multi-agent orchestration**, combining engineering precision with applied research.
-* 🌍 My goal is to make AI systems feel truly usable — ones that talk, think, and deliver measurable outcomes in real-world settings.
-* 🕹 Outside work, I built **FPL Oracle AI**, a Fantasy Premier League assistant that helps over 100+ users make smarter lineup decisions.  [Try it](https://www.fploracle.team).
-* 👯 I’m open to collaborating with other engineers, founders, and researchers who share a builder mindset.
-* 🥅 2025 Goals: Scale my current AI SaaS projects, contribute to open source agent frameworks, and launch new AI copilots for productivity and sports analytics.
-* ☕ Fun fact: I love turning technical curiosity into real products people actually use — one build at a time.
+AI Engineer. I build things and ship them.
 
----
+Former Founding AI Engineer @ Lightwork AI (London).
+Multi-agent systems, voice AI, full-stack SaaS — production.
+
+Built my own stuff too. Mostly football-brained:
+
+- [FPL Oracle](https://www.fploracle.team) — AI that helps you win your FPL league · $300 MRR
+- [Backpage FC](https://www.tiktok.com/@backpage.fc) — automated football storytelling · 600K+ views · 2.1K followers
+
+4.5K ⭐ open source. 80K+ downloads. Contributor to TensorFlow, PyTorch, Ivy, JAX.
+
+Open to interesting problems.
 
 ### 🛠️ I code (and build agents) with
 
@@ -37,6 +38,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-05122A?\&logo=nestjs)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?\&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?\&logo=pytorch)
+
 
 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker) -->
