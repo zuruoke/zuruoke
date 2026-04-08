@@ -2,10 +2,7 @@
 
 AI Engineer · I build things and ship them ·
 
-> commit: had an idea  
-> commit: built it  
-> commit: shipped it  
-> commit: already onto the next one
+<img src="https://github.com/user-attachments/assets/ea86b5cc-9fe4-4f99-980e-9d4cfb20f0dc" width="25%" />
 
 Former Founding AI Engineer @ Lightwork AI (London) ·
 Multi-Agent systems · Voice AI · Full-Stack SaaS · Production
