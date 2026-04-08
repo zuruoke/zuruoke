@@ -2,8 +2,8 @@
 
 AI Engineer. I build things and ship them.
 
-Former Founding AI Engineer @ Lightwork AI (London).
-Multi-agent systems, voice AI, full-stack SaaS — production.
+Former Founding AI Engineer @ Lightwork AI (London) ·
+Multi-Agent systems · Voice AI · Full-Stack SaaS · Production.
 
 Built my own stuff too. Mostly football-brained:
 
