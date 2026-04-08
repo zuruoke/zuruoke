@@ -2,6 +2,8 @@
 
 AI Engineer · I build things and ship them ·
 
+> $ npm run idea --to=production --skip-overthinking
+
 Former Founding AI Engineer @ Lightwork AI (London) ·
 Multi-Agent systems · Voice AI · Full-Stack SaaS · Production
 
