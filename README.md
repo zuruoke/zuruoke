@@ -1,15 +1,15 @@
 # Chimzuruoke Okafor
 
-AI Engineer. I build things and ship them.
+AI Engineer · I build things and ship them ·
 
 Former Founding AI Engineer @ Lightwork AI (London) ·
-Multi-Agent systems · Voice AI · Full-Stack SaaS · Production.
+Multi-Agent systems · Voice AI · Full-Stack SaaS · Production
 
-Built my own stuff too. Mostly football-brained:
+Built my own stuff too · Mostly Football-brained:
 
 > *This list will keep growing...🌱*
 
-- [FPL Oracle](https://www.fploracle.team) — AI that helps you win your FPL league · £300 MRR
+- [The FPL Oracle](https://www.fploracle.team) — AI that helps you win your FPL league · £300 MRR · Top 300 globally (14M+) 🏆
 - [Backpage FC](https://www.tiktok.com/@backpage.fc) — automated football storytelling · 600K+ views · 2.1K followers
 
 4.5K ⭐ open source. 80K+ downloads. Contributor to TensorFlow, PyTorch, Ivy, JAX.
