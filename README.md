@@ -7,7 +7,7 @@ Multi-Agent systems · Voice AI · Full-Stack SaaS · Production.
 
 Built my own stuff too. Mostly football-brained:
 
-> *The list will keep growing...*
+> *This list will keep growing...🌱*
 
 - [FPL Oracle](https://www.fploracle.team) — AI that helps you win your FPL league · £300 MRR
 - [Backpage FC](https://www.tiktok.com/@backpage.fc) — automated football storytelling · 600K+ views · 2.1K followers
