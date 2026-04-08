@@ -7,7 +7,7 @@ Multi-agent systems, voice AI, full-stack SaaS — production.
 
 Built my own stuff too. Mostly football-brained:
 
-- [FPL Oracle](https://www.fploracle.team) — AI that helps you win your FPL league · $300 MRR
+- [FPL Oracle](https://www.fploracle.team) — AI that helps you win your FPL league · £300 MRR
 - [Backpage FC](https://www.tiktok.com/@backpage.fc) — automated football storytelling · 600K+ views · 2.1K followers
 
 4.5K ⭐ open source. 80K+ downloads. Contributor to TensorFlow, PyTorch, Ivy, JAX.
