@@ -7,12 +7,13 @@ AI Engineer · I build things and ship them ·
 Founding AI Engineer @ Lightwork AI (London) ·
 Multi-Agent systems · Voice AI · Full-Stack SaaS · Production
 
-Built my own stuff too · Mostly Football-brained:
+Built my own stuff too :
 
 > *This list will keep growing...🌱*
 
 - [The FPL Oracle](https://www.fploracle.team) — AI that helps you win your FPL league Top 300 globally (14M+) 🏆
 - [Backpage FC](https://www.backpagefc.com) — AI automated football storytelling · 10K+ visitors/month · 2.1K subscribers
+- [Takuru](https://takuru.cloud/) - AI video automation pipeline · Created over 1.5K videos
 
 4.5K ⭐ open source. 80K+ downloads. Contributor to TensorFlow, LeetCode, PyTorch, Ivy, JAX.
 
