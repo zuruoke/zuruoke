@@ -19,6 +19,8 @@ Built my own stuff too :
 
 Open to interesting problems.
 
+Looking to hire me 👉🏽 https://www.upwork.com/freelancers/okaforz 
+
 ### 🛠️ I code (and build agents) with
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?\&logo=node.js)
