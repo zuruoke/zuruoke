@@ -15,11 +15,13 @@ Built my own stuff too :
 - [Backpage FC](https://www.backpagefc.com) — AI automated football storytelling · 50K+ visitors/month · 4.1K subscribers
 - [Takuru](https://takuru.cloud/) - AI growth engine for SaaS: turns your Search Console data into articles, videos and page fixes · driving 50K+ monthly visitors across 3+ apps
 
-4.5K ⭐ open source. 80K+ downloads. Contributor to TensorFlow, LeetCode, PyTorch, Ivy, JAX.
+5.2K ⭐ open source. 80K+ downloads. Contributor to TensorFlow, LeetCode, PyTorch, Ivy, JAX.
 
 Open to interesting problems.
 
-Looking to hire me 👉🏽 https://www.upwork.com/freelancers/okaforz 
+Looking to hire me? 👇🏽
+
+[![Hire me on Upwork](https://img.shields.io/badge/Hire%20me%20on-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/okaforz)
 
 ### 🛠️ I code (and build agents) with
 
